@@ -10,3 +10,11 @@ Repository
 
 #This is My Name
 git init
+git add .
+git commit -m
+git push 
+
+
+#Test new commit
+
+
